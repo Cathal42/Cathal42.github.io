@@ -16,6 +16,10 @@ main {
  padding: 0 5%;
 }
 
+main h1 {
+    text-align: center;
+}
+
 main section {
     margin-bottom: 20px;
 }
@@ -37,7 +41,7 @@ main p em {
 main p {
     text-align: left;
     font-weight: normal;
-    font-size: 14px;
+    font-size: 16px;
     margin-bottom: 15px;
     line-height: 1.8em;
 }
@@ -55,16 +59,16 @@ main p span {
 
 i.keyboard {
     display: inline-block;
-    width: 24px;
-    height: 24px;
+    width: 28px;
+    height: 28px;
     background: url(../images/keyboard.png);
     background-size: cover;
 }
 
 i.voice {
     display: inline-block;
-    width: 24px;
-    height: 24px;
+    width: 28px;
+    height: 28px;
     background: url(../images/voice.png);
     background-size: cover;
 }
